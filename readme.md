@@ -68,7 +68,7 @@ https://www.treinaweb.com.br/blog/o-que-e-programacao-reativa?gclid=Cj0KCQjwvZCZ
 ### Diferença entre Spring MVC x Spring Web Flux ?
 https://bityli.com/IoBtkD
 
-![](../../../../../home/fariabjj/Imagens/Capturas de tela/Captura de tela de 2022-09-16 09-12-39.png)
+![](https://imgbox.com/umBnXDAF)
 
  ### Mais detalhes:
 - https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html
