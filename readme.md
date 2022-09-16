@@ -2,7 +2,7 @@
 
 # Consumindo API Star Wars via Spring WEBFLUX
 
-## 🚀 API com CRUD
+## 🚀 API
 
 Uma simples API que consome os dados de starwars, como nome, filmes, espécies, veículos e outros.
 Desenvolvida com programação reativa em Java (Spring WEBFLUX) e testada com Postman.
